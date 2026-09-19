@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Building Myself<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with you in designing<br>🌱 I’m currently learning<br>💬 Ask me about Web Dev<br>⚡ Learning new thing is crazy
 
 
 # 💻 Tech Stack:
